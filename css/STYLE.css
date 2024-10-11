@@ -1,0 +1,183 @@
+body{padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+
+
+
+.div0{background-image: url(../images/2452737.jpg)  ;  height: 190vh; width: 100vw; background-size: cover;
+    position: absolute; 
+opacity: 0.4; }
+
+
+.div1{background-image: url(../images/butterfly.png);background-size: cover;
+    width: 100px; height: 80px;
+animation-name: item1 ;
+ animation-duration: 5s;
+ animation-delay: 3s;
+ animation-direction: reverse;
+position: absolute;
+left: 0;
+top: 10;
+animation-timing-function: linear;
+display: inline;
+}
+
+ @keyframes item1 {
+0%{animation-fill-mode: forwards; left: 1070px;}
+    
+    
+}
+
+.div2{width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+animation-name: item2;
+animation-duration: 5s;
+animation-direction: reverse;
+animation-delay:3s ;
+position: absolute;
+left: 0;
+top: 220px;
+animation-timing-function: linear;
+display: inline;
+}
+
+@keyframes item2{
+    0%{animation-fill-mode: forwards; left: 1070px;}
+
+}
+
+.div3{
+    width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+    animation-name: item3;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    left: 0;
+    top: 430px;
+    animation-timing-function: linear;
+    display: inline;
+}
+
+@keyframes item3{
+    0%{animation-fill-mode: forwards; left: 1070px;}
+}
+
+.div4{width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+    animation-name: item4;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    left: 0;
+    top: 640px;
+    animation-timing-function: linear;
+    display: inline;
+}
+
+@keyframes item4{
+    0%{animation-fill-mode: forwards; left: 1070px;}
+}
+
+.div5{
+    width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+    animation-name: item5;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    left: 0;
+    top: 850px;
+    animation-timing-function: linear;
+    display: inline;
+}
+
+@keyframes item5{
+    0%{animation-fill-mode: forwards; left: 1070px;}
+}
+.div6{
+    width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+    animation-name: item6;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    right: 0;
+    top: 120px;
+    animation-timing-function: linear;
+    display: inline;
+}
+
+@keyframes item6{
+    0%{animation-fill-mode: forwards; right: 1070px;}
+}
+
+
+
+.div7{
+    width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+    animation-name: item7;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    right: 0;
+    top: 330px;
+
+    animation-timing-function: linear;
+    display: inline;
+    
+}
+
+@keyframes item7{
+    0%{animation-fill-mode: forwards; right: 1070px;}
+}
+.div8{
+    width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+    animation-name: item8;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    right: 0;
+    top:540px;
+    animation-timing-function: linear;
+    display: inline;
+}
+@keyframes item8{
+    0%{animation-fill-mode: forwards; right: 1070px;}
+}
+.div9{
+    width: 100px; height: 80px;background-image: url(../images/butterfly.png) ; background-size:  cover;
+    animation-name: item9;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    right: 0;
+    top: 750px;
+    animation-timing-function: linear;
+    display: inline;
+}
+
+
+@keyframes item9{
+    0%{animation-fill-mode: forwards; right: 1070px;}
+}
+.div10{
+    width: 100px; height: 80px;background-image: url(../images/butterfly.png);background-size: cover;
+    animation-name: item10;
+    animation-duration: 5s;
+    animation-direction: reverse;
+    animation-delay:3s ;
+    position: absolute;
+    right: 0;
+    top: 950px;
+    animation-timing-function: linear;
+    display: inline;
+}
+
+
+@keyframes item10{
+    0%{animation-fill-mode: forwards; right: 1070px;}
+}
